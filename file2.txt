@@ -1,0 +1,2 @@
+Ini adalah isi file2
+Tambahan baris dari remote GitHub
